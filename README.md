@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
 
+### I'm Edwin, a final year University student!
+- I'm currently focused on learning Frontend Software Engineering.
+- However, I also enjoy learning about many other aspects of technology, including Backend Development, Data Analytics and Artificial Intelligence.
+- I'm mainly looking for job opportunities around Frontend Development, but I am open to opportunities which allow me to improve my software development skills.
+ 
+<!-- ### Tech Skills -->
+ 
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
