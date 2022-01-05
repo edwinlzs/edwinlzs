@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile! 👋
 
 ### I'm Edwin, a final year University student.
-- I'm currently focused on advancing in Frontend Software Engineering.
+- 👩‍💻 I'm currently focused on advancing in Frontend Software Engineering.
 - I also enjoy learning about many other aspects of technology, including Backend Development, Data Analytics and Artificial Intelligence.
 - I'm mainly looking for job opportunities in Frontend Dev, but am open to opportunities which allow me to improve my overall software dev skills.
  
@@ -25,8 +25,15 @@
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
+<br/><br/>
 
- 
+### What I'm currently learning
+<div><img align="left" alt="Framer" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/framer-3628781-3030143.png" /> Animations with <em>Framer Motions</em></div> <br/>
+<div><img align="left" alt="Styled Components" width="32px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /> Styling with <em>Styled Components</em> </div><br/>
+
+### Personal Projects
+📈 Project Macro Data
+
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
