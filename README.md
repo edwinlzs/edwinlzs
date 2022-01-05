@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-### I'm Edwin, a final year University student!
+### I'm Edwin, a final year University student.
 - I'm currently focused on advancing in Frontend Software Engineering.
 - I also enjoy learning about many other aspects of technology, including Backend Development, Data Analytics and Artificial Intelligence.
 - I'm mainly looking for job opportunities in Frontend Dev, but am open to opportunities which allow me to improve my overall software dev skills.
