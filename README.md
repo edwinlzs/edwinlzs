@@ -3,7 +3,7 @@
 ### I'm Edwin, a final year University student.
 - 👩‍💻 I'm currently focused on advancing in Frontend Software Engineering.
 - I also enjoy learning about many other aspects of technology, including Backend Development, Data Analytics and Artificial Intelligence.
-- I'm mainly looking for job opportunities in Frontend Dev, but am open to opportunities which allow me to improve my overall software dev skills.
+- I'm mainly looking for work opportunities in Frontend Dev, but am open to opportunities where I can improve my overall software dev skills.
  
 ### Languages
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,12 +27,17 @@
 <img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
 <br/><br/>
 
+### Personal Projects
+<div><img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> Project Macro Data </div> <br/>
+<div><img align="left" alt="Astronomy" width="32px" src="https://raw.githubusercontent.com/edwinlzs/edwinlzs/4cead7c6197f3ca1873f34bf97082e2ad2c23c5c/assets/svgBlackHole.svg?token=AQLI4SV2JX4OXSHZKKXTXPDB22VTM" /> Astronomy </div> <br/>
+
+
 ### What I'm currently learning
 <div><img align="left" alt="Framer" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/framer-3628781-3030143.png" /> Animations with <em>Framer Motions</em></div> <br/>
 <div><img align="left" alt="Styled Components" width="32px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /> Styling with <em>Styled Components</em> </div><br/>
 
-### Personal Projects
-📈 Project Macro Data
+### What I'm planning to learn
+<div><img align="left" alt="D3.js" width="32px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" /> Data Visualization with <em>D3.js</em></div> <br/>
 
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
