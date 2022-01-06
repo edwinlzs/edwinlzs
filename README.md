@@ -28,8 +28,8 @@
 <br/><br/>
 
 ### Personal Projects
-<div><img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> Project Macro Data </div> <br/>
-<div><img align="left" alt="Astronomy" width="32px" src="https://raw.githubusercontent.com/edwinlzs/edwinlzs/4cead7c6197f3ca1873f34bf97082e2ad2c23c5c/assets/svgBlackHole.svg?token=AQLI4SV2JX4OXSHZKKXTXPDB22VTM" /> Astronomy </div> <br/>
+<div><img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Project Macro Data</strong> </div> <br/>
+<div><img align="left" alt="Astronomy" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/svgBlackHole.svg" /> <strong>Astronomy</strong> </div> <br/>
 
 
 ### What I'm currently learning
