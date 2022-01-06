@@ -29,7 +29,7 @@
 
 ## Personal Projects
 <div>
- <img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Project Macro Data</strong><br/>
+ <img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Macro Data</strong><br/>
  <p>
   A Full-Stack App, learning to use ReactJS with Material UI in the frontend with a Django/MariaDB backend deployed on Heroku.
  </p>
