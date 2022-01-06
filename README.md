@@ -1,11 +1,11 @@
-### Welcome to my GitHub profile! 👋
+## Welcome to my GitHub profile! 👋
 
 ### I'm Edwin, a final year University student.
 - 👩‍💻 I'm currently focused on advancing in Frontend Software Engineering.
 - I also enjoy learning about many other aspects of technology, including Backend Development, Data Analytics and Artificial Intelligence.
 - I'm mainly looking for work opportunities in Frontend Dev, but am open to opportunities where I can improve my overall software dev skills.
  
-### Languages
+## Languages
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -15,7 +15,7 @@
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>
 
-### Libraries & Frameworks
+## Libraries & Frameworks
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
 <img align="left" alt="Material UI" width="32px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
@@ -27,9 +27,23 @@
 <img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
 <br/><br/>
 
-### Personal Projects
-<div><img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Project Macro Data</strong> </div> <br/>
-<div><img align="left" alt="Astronomy" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/svgBlackHole.svg" /> <strong>Astronomy</strong> </div> <br/>
+## Personal Projects
+<div>
+ <img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Project Macro Data</strong><br/>
+ <p>
+  A Full-Stack App, learning to use ReactJS with Material UI in the frontend with a Django/MariaDB backend deployed on Heroku.
+ </p>
+</div> <br/>
+
+<div>
+ <img align="left" alt="Astronomy" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/pngGalaxy.png?raw=true" />
+ <div>
+ <strong>Astronomy</strong><br/>
+ <p>
+ An exploratory project running on NextJS and using tools such as Framer-Motion to build custom components and animations.
+ </p>
+ </div>
+</div> <br/>
 
 
 ### What I'm currently learning
