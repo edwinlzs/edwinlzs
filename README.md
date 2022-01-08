@@ -13,7 +13,7 @@
 <img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />
 <br/>
 
-## Libraries & Frameworks
+## Libraries, Frameworks & Technologies
 <img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />
 <img align="left" alt="Next.js" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NextJS.png" />
 <img align="left" alt="Material UI" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Material UI.svg" />
