@@ -1,9 +1,8 @@
 ## Welcome to my GitHub profile! 👋
 
 ### I'm Edwin, a final year University student.
-🎯 I'm currently focused on advancing in Frontend Software Engineering.  
-👩‍💻 I also enjoy learning about other aspects of tech, including Backend Dev, Data Analytics and AI/ML.  
-💻 Mainly looking for work opportunities in the Frontend, but am open to opportunities where I can still improve my software dev skills.
+👩‍💻 Building is my passion - I enjoy working on both the Frontend and Backend to craft applications.  
+🎯 Software Development is my focus - I am always learning and looking for opportunities to grow.
  
 ## Languages
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
