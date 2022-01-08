@@ -34,7 +34,7 @@
  [<img align="left" alt="Astronomy" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/pngGalaxy.png" />
  <strong>Astronomy</strong>](https://github.com/edwinlzs/astronomy)<br/>
  <p>
- An exploratory project running on NextJS and using tools such as Framer-Motion to build custom components and animations.
+ An exploratory project running on NextJS and building custom components/animations using tools such as Framer-Motion.
  </p> <br/>
 
 ## Currently Learning
