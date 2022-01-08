@@ -25,28 +25,24 @@
 <br/><br/>
 
 ## Personal Projects
-<div>
- <img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>[Project Macro Data](https://github.com/edwinlzs/macrodata)</strong><br/>
+ [<img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>Macro Data</strong>](https://github.com/edwinlzs/macrodata)
  <p>
   A Full-Stack App, learning to use ReactJS with Material UI in the frontend with a Django/MariaDB backend deployed on Heroku.
- </p>
-</div> <br/>
+ </p> <br/>
 
-<div>
- <img align="left" alt="Astronomy" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/pngGalaxy.png" />
- <div>
- <strong>Project Astronomy</strong><br/>
+ [<img align="left" alt="Astronomy" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/pngGalaxy.png" />
+ <strong>Astronomy</strong>](https://github.com/edwinlzs/astronomy)<br/>
  <p>
  An exploratory project running on NextJS and using tools such as Framer-Motion to build custom components and animations.
- </p>
- </div>
-</div> <br/>
+ </p> <br/>
 
 ## Currently Learning
-<div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/>
+<!-- <div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/> -->
+
 <div><img align="left" alt="D3.js" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/D3.svg" /> Data Visualization with <em>D3.js</em></div> <br/>
 <div><img align="left" alt="Express" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NodeJS.svg" /> Node.JS Backend with <em>Express</em></div> <br/>
 <div><img align="left" alt="GraphQL" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/GraphQL.svg" /> Building APIs with <em>GraphQL</em></div> <br/>
+<div><img align="left" alt="MongoDB" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MongoDB.svg" /> NoSQL with <em>MongoDB</em></div> <br/>
 
 
 
