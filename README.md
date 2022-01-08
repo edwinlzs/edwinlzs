@@ -11,7 +11,7 @@
 <img align="left" alt="JavaScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/JavaScript.svg" />
 <img align="left" alt="TypeScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/TypeScript.svg" />
 <img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />
-<br/>
+<br/><br/>
 
 ## Libraries, Frameworks & Technologies
 <img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />
@@ -26,7 +26,7 @@
 
 ## Personal Projects
 <div>
- <img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>Project Macro Data</strong><br/>
+ <img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>[Project Macro Data](https://github.com/edwinlzs/macrodata)</strong><br/>
  <p>
   A Full-Stack App, learning to use ReactJS with Material UI in the frontend with a Django/MariaDB backend deployed on Heroku.
  </p>
@@ -42,12 +42,13 @@
  </div>
 </div> <br/>
 
-
-### What I'm currently learning
+## Currently Learning
 <div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/>
 <div><img align="left" alt="D3.js" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/D3.svg" /> Data Visualization with <em>D3.js</em></div> <br/>
 <div><img align="left" alt="Express" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NodeJS.svg" /> Node.JS Backend with <em>Express</em></div> <br/>
 <div><img align="left" alt="GraphQL" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/GraphQL.svg" /> Building APIs with <em>GraphQL</em></div> <br/>
+
+
 
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
