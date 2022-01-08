@@ -5,37 +5,35 @@
 🎯 Software Development is my focus - I am always learning and looking for opportunities to grow.
  
 ## Languages
-<img align="left" alt="HTML5" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/HTML5.svg" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="HTML5" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/HTML5.svg" />
+<img align="left" alt="CSS3" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/CSS.svg" />
+<img align="left" alt="Sass" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Sass.svg" />
+<img align="left" alt="JavaScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/JavaScript.svg" />
+<img align="left" alt="TypeScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/TypeScript.svg" />
+<img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />
 <br/>
 
 ## Libraries & Frameworks
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
-<img align="left" alt="Material UI" width="32px" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" />
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Flask" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Tensorflow" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="32px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
+<img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />
+<img align="left" alt="Next.js" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NextJS.png" />
+<img align="left" alt="Material UI" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Material UI.svg" />
+<img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />
+<img align="left" alt="Flask" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Flask.png" />
+<img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />
+<img align="left" alt="Docker" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Docker.png" />
+<img align="left" alt="Kubernetes" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Kubernetes.svg" />
 <br/><br/>
 
 ## Personal Projects
 <div>
- <img align="left" alt="Project Macro Data" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/macrodatalogodark.png?raw=true" /> <strong>Project Macro Data</strong><br/>
+ <img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>Project Macro Data</strong><br/>
  <p>
   A Full-Stack App, learning to use ReactJS with Material UI in the frontend with a Django/MariaDB backend deployed on Heroku.
  </p>
 </div> <br/>
 
 <div>
- <img align="left" alt="Astronomy" width="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/pngGalaxy.png?raw=true" />
+ <img align="left" alt="Astronomy" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/pngGalaxy.png" />
  <div>
  <strong>Project Astronomy</strong><br/>
  <p>
@@ -46,11 +44,10 @@
 
 
 ### What I'm currently learning
-<div><img align="left" alt="Framer" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/framer-3628781-3030143.png" /> Animations with <em>Framer Motions</em></div> <br/>
-<div><img align="left" alt="Styled Components" width="32px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /> Styling with <em>Styled Components</em> </div><br/>
-
-### What I'm planning to learn
-<div><img align="left" alt="D3.js" width="32px" src="https://camo.githubusercontent.com/586ccf0aad9684edc821658cee04146cf36d1f1d5ec904bbefd72728909ccb2e/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" /> Data Visualization with <em>D3.js</em></div> <br/>
+<div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/>
+<div><img align="left" alt="D3.js" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/D3.svg" /> Data Visualization with <em>D3.js</em></div> <br/>
+<div><img align="left" alt="Express" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NodeJS.svg" /> Node.JS Backend with <em>Express</em></div> <br/>
+<div><img align="left" alt="GraphQL" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/GraphQL.svg" /> Building APIs with <em>GraphQL</em></div> <br/>
 
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
