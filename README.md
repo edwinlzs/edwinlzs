@@ -2,7 +2,8 @@
 
 ### I'm Edwin, a final year University student.
 👩‍💻 Building is my passion - I enjoy working on both the Frontend and Backend to craft applications.  
-🎯 Software Development is my focus - I am always learning and looking for opportunities to grow.
+🎯 Software Development is my focus - I am consistently learning and finding avenues to grow in this field.  
+🤝 Feel free to reach out to me - I am always looking for advice and work opportunities!
  
 ## Languages
 <img align="left" alt="HTML5" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/HTML5.svg" />
