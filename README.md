@@ -43,7 +43,7 @@
 
 <div><img align="left" alt="Express" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NodeJS.svg" /> Node.JS Backend with <em>Express</em></div> <br/>
 <div><img align="left" alt="GraphQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/GraphQL.svg" /> Building APIs with <em>GraphQL</em></div> <br/>
-<div><img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" /> A new programming language with <em>Rust</em></div> <br/>
+<div><img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" /> Memory management & systems programming concepts with <em>Rust</em></div> <br/>
 
 
 
