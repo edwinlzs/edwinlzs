@@ -6,19 +6,15 @@
 🤝 Feel free to reach out to me - I am always looking for advice and work opportunities!
  
 ## Languages
-<img align="left" alt="HTML5" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/HTML5.svg" />
-<img align="left" alt="CSS3" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/CSS.svg" />
-<img align="left" alt="Sass" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Sass.svg" />
+<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />
 <img align="left" alt="JavaScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/JavaScript.svg" />
 <img align="left" alt="TypeScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/TypeScript.svg" />
 <img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />
-<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />
 <br/><br/>
 
 ## Libraries, Frameworks & Technologies
 <img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />
 <img align="left" alt="Next.js" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NextJS.png" />
-<img align="left" alt="Material UI" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Material UI.svg" />
 <img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />
 <img align="left" alt="Flask" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Flask.png" />
 <img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />
