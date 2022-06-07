@@ -14,9 +14,7 @@
 
 ## Libraries, Frameworks & Technologies
 <img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />
-<img align="left" alt="Next.js" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/NextJS.png" />
 <img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />
-<img align="left" alt="Flask" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Flask.png" />
 <img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />
 <img align="left" alt="Docker" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Docker.png" />
 <img align="left" alt="Kubernetes" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Kubernetes.svg" />
