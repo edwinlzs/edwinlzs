@@ -7,6 +7,7 @@
  
 ## Languages
 <img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />
+<img align="left" alt="Rust" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="JavaScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/JavaScript.svg" />
 <img align="left" alt="TypeScript" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/TypeScript.svg" />
 <img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />
@@ -33,10 +34,7 @@
  </p> <br/> -->
 
 ## Currently Learning
-<!-- <div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/> -->
-
-<div><img align="left" alt="GraphQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/GraphQL.svg" /> Building APIs with <em>GraphQL</em></div> <br/>
-<div><img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" /> Memory management & systems programming concepts with <em>Rust</em></div> <br/>
+<div><img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" /> Systems programming concepts with <em>Rust</em></div> <br/>
 
 
 
