@@ -2,8 +2,8 @@
 
 ### I'm Edwin, a final year University student.
 👩‍💻 Building is my passion - I enjoy working on both the Frontend and Backend to craft applications.  
-🎯 Software Development is my focus - I am consistently learning and finding avenues to grow in this field.  
-🤝 Feel free to reach out to me - I am always looking for advice and work opportunities!
+🎯 Software Engineering is my focus - I am consistently learning and finding avenues to grow in this field.  
+🤝 Feel free to reach out to me - I am always looking out for advice and work opportunities!
  
 ## Languages
 <img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />
@@ -19,7 +19,7 @@
 <img align="left" alt="Docker" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Docker.png" />
 <img align="left" alt="Kubernetes" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Kubernetes.svg" />
 <br/><br/>
-
+<!-- 
 ## Personal Projects
  [<img align="left" alt="Project Macro Data" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/projects/macrodatalogodark.png" /> <strong>Macro Data</strong>](https://github.com/edwinlzs/macrodata)
  <p>
@@ -30,7 +30,7 @@
  <strong>Astronomy</strong>](https://github.com/edwinlzs/astronomy)<br/>
  <p>
  An exploratory project running on NextJS and building custom components/animations using tools such as Framer-Motion.
- </p> <br/>
+ </p> <br/> -->
 
 ## Currently Learning
 <!-- <div><img align="left" alt="Framer" height="32px" width="48px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Framer.svg" /> Animations with <em>Framer Motion</em></div> <br/> -->
