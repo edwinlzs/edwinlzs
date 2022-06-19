@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 👋
 
 ### I'm Edwin, a final year University student.
-👩‍💻 Building is my passion - I enjoy working on both the Frontend and Backend to craft applications.  
+👩‍💻 Building is my passion - I enjoy tinkering with all sorts of software from web applications to games and operating systems.  
 🎯 Software Engineering is my focus - I am consistently learning and finding avenues to grow in this field.  
 🤝 Feel free to reach out to me - I am always looking out for advice and work opportunities!
  
