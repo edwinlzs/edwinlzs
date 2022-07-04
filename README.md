@@ -14,6 +14,8 @@
 <br/><br/>
 
 ## Libraries, Frameworks & Technologies
+[<img align="left" alt="Yew" height="32px" src="https://camo.githubusercontent.com/e586b9db8206c4084cf74092c94981b1973f6c8837c7d7208200abb77f43813f/68747470733a2f2f7965772e72732f696d672f6c6f676f2e706e67" />](https://github.com/yewstack/yew)
+[<img align="left" alt="Actix Web" height="32px" src="https://actix.rs/img/logo-large.png" />](https://github.com/actix/actix-web)
 [<img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />](https://github.com/facebook/react)
 [<img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />](https://github.com/django/django)
 [<img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />](https://github.com/topics/mysql)
