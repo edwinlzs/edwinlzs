@@ -2,7 +2,7 @@
 
 ### I'm Edwin, a final year University student.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
-🤝 Reach out to me - I am always looking out for work opportunities or like-minded people!  
+🤝 Reach out to me - I am interested in open source, work opportunities or just meeting like-minded people.  
 🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.
  
 ## Languages
