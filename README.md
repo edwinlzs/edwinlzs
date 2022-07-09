@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile! 👋
 
-### I'm Edwin, a final year University student.
+### I'm Edwin, a final year University student based in Singapore.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
 🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.  
 🤝 Reach out to me - I am interested in open source, work opportunities or just meeting like-minded people.  
