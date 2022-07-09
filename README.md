@@ -2,8 +2,8 @@
 
 ### I'm Edwin, a final year University student.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
+🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.  
 🤝 Reach out to me - I am interested in open source, work opportunities or just meeting like-minded people.  
-🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.
  
 ## Languages
 [<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust)
