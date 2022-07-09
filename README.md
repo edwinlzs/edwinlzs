@@ -39,7 +39,7 @@
 [<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust) Systems programming concepts with <em>Rust</em>
 <br/>
 
-[<img align="left" alt="Arch Linux" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />](https://archlinux.org/) Fell down a rabbit hole of configuring <em>Linux</em> distros (woops). Now toying with Arch Linux.
+[<img align="left" alt="Arch Linux" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />](https://archlinux.org/) Fell down a rabbit hole of configuring Linux distros (woops). Now toying with <em>Arch Linux</em>.
 <br/>
 
 
