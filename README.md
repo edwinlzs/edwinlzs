@@ -1,9 +1,9 @@
 ## Welcome to my GitHub profile! 👋
 
 ### I'm Edwin, a final year University student.
-👩‍💻 Building is my passion - I enjoy tinkering with all sorts of software from web applications to operating systems.  
-🎯 Software Engineering is my focus - I am consistently learning and finding avenues to grow in this field.  
-🤝 Feel free to reach out to me - I am always looking out for advice and work opportunities!
+👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
+🤝 Reach out to me - I am always looking out for work opportunities or like-minded people!  
+🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.
  
 ## Languages
 [<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust)
@@ -36,7 +36,7 @@
  </p> <br/> -->
 
 ## Currently Learning
-[<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust) Systems programming concepts with <em>Rust</em>
+[<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust) Systems programming concepts with <em>Rust</em>.
 <br/>
 
 [<img align="left" alt="Arch Linux" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />](https://archlinux.org/) Fell down a rabbit hole of configuring Linux distros (woops). Now toying with <em>Arch Linux</em>.
