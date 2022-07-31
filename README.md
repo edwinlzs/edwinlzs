@@ -13,14 +13,16 @@
 [<img align="left" alt="Python" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Python.svg" />](https://github.com/topics/python)
 <br/><br/>
 
-## Libraries, Frameworks & Technologies
+## Libraries, Frameworks & Tools
 [<img align="left" alt="Yew" height="32px" src="https://camo.githubusercontent.com/e586b9db8206c4084cf74092c94981b1973f6c8837c7d7208200abb77f43813f/68747470733a2f2f7965772e72732f696d672f6c6f676f2e706e67" />](https://github.com/yewstack/yew)
 [<img align="left" alt="Actix Web" height="32px" src="https://actix.rs/img/logo-large.png" />](https://github.com/actix/actix-web)
 [<img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />](https://github.com/facebook/react)
+[<img align="left" alt="Svelte" height="32px" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" />](https://github.com/sveltejs/svelte)
 [<img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />](https://github.com/django/django)
 [<img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />](https://github.com/topics/mysql)
 [<img align="left" alt="Docker" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Docker.png" />](https://github.com/topics/docker)
 [<img align="left" alt="Kubernetes" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Kubernetes.svg" />](https://github.com/kubernetes/kubernetes)
+[<img align="left" alt="GraphQL" height="32px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />](https://github.com/topics/graphql)
 <br/><br/>
 <!-- 
 ## Personal Projects
