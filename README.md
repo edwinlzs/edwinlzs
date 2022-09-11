@@ -3,7 +3,6 @@
 ### I'm Edwin, a final year University student based in Singapore.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
 🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.  
-🤝 Reach out to me - I am interested in open source, work opportunities or just meeting like-minded people.  
  
 ## Languages
 [<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust)
@@ -37,14 +36,14 @@
  An exploratory project running on NextJS and building custom components/animations using tools such as Framer-Motion.
  </p> <br/> -->
 
+<!--
 ## Currently Learning
 [<img align="left" alt="Rust" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Rust.png" />](https://github.com/rust-lang/rust) Systems programming concepts with <em>Rust</em>.
 <br/>
 
 [<img align="left" alt="Arch Linux" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" />](https://archlinux.org/) Fell down a rabbit hole of configuring Linux distros (woops). Now toying with <em>Arch Linux</em>.
 <br/>
-
-
+-->
 
 <!--
 **edwinlzs/edwinlzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
