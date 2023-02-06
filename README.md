@@ -1,8 +1,8 @@
 ## Welcome to my GitHub profile! 👋
 
-### I'm Edwin, a final year University student based in Singapore.
+### I'm Edwin, a fresh graduate based in Singapore.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
-🛠️ Experienced with <strong>Full-Stack Web Development</strong> & Data Analytics.  
+🛠️ Often working on random things in my private repos during my free time. I really should go out and touch some grass...  
  
 # Tech Stack
 
@@ -28,12 +28,6 @@
 [<img align="left" alt="MySQL" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/MySQL.svg" />](https://github.com/topics/mysql)
 [<img align="left" alt="MySQL" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://github.com/postgres/postgres)
 [<img align="left" alt="GraphQL" height="32px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />](https://github.com/topics/graphql)
-<br/><br/>
-
-## Dev Tools
-
-[<img align="left" alt="Docker" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Docker.png" />](https://github.com/topics/docker)
-[<img align="left" alt="Kubernetes" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Kubernetes.svg" />](https://github.com/kubernetes/kubernetes)
 <br/><br/>
 
 <!-- 
