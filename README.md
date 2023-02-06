@@ -2,7 +2,8 @@
 
 ### I'm Edwin, a fresh graduate based in Singapore.
 👩‍💻 I enjoy tinkering with all sorts of software from web applications to operating systems.  
-🛠️ Often working on random things in my private repos during my free time. I really should go out and touch some grass...  
+🛠️ Often working on random things in my private repos during my free time. I really should go out and touch some grass.  
+📷 Also an avid amateur photographer doing lots and lots of portrait shots.
  
 # Tech Stack
 
