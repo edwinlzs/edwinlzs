@@ -19,8 +19,6 @@
 ## Frameworks
 [<img align="left" alt="React" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/React.svg" />](https://github.com/facebook/react)
 [<img align="left" alt="Svelte" height="32px" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" />](https://github.com/sveltejs/svelte)
-[<img align="left" alt="SCSS" height="32px" src="https://user-images.githubusercontent.com/68587082/194874142-9ad8e21e-32fe-42f3-bc02-1ea131c31da7.png" />](https://github.com/topics/scss)
-<br/><br/>
 [<img align="left" alt="Actix Web" height="32px" src="https://actix.rs/img/logo-large.png" />](https://github.com/actix/actix-web)
 [<img align="left" alt="Django" height="32px" src="https://github.com/edwinlzs/edwinlzs/blob/main/assets/techlogos/Django.svg" />](https://github.com/django/django)
 
